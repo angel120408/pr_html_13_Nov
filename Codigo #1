@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<cuerpo>
+
+<!--Practica #1-->
+<!--En esta practica veremos los elementos semánticos HTML-->
+
+<!--Inicia su ejecucuion-->
+<sección>
+  <h1>WWF</h1>
+  <p>El Fondo Mundial para la Naturaleza (WWF) es una organización internacional que trabaja en temas relacionados con la conservación, investigación y restauración del medio ambiente, anteriormente llamado Fondo Mundial para la Naturaleza. WWF fue fundada en 1961.</p>
+</sección>
+
+<sección>
+  <h1>Símbolo del Panda de WWF</h1>
+  <p>El Panda se ha convertido en el símbolo de WWF. El conocido logotipo del panda de WWF se originó a partir de un panda llamado Chi Chi que fue transferido del Zoológico de Beijing al Zoológico de Londres el mismo año de la creación de WWF.</p>
+</sección>
+<!--Fin de la ejecucuion-->
+</cuerpo>
+</html>
