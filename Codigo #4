@@ -1,0 +1,53 @@
+<!--Practica #4-->
+
+<!--En esta practica veremos como esto esta hecho con tres artículos con contenido independiente y autónomo-->
+
+<!--Aqui inicia el primer contenido independiente-->                                                                                                        
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .all-browsers {
+      margin: 0;
+      padding: 5px;
+      background-color: lightgray;
+    }
+
+    .all-browsers > h1, .browser {
+      margin: 10px;
+      padding: 5px;
+    }
+
+    .browser {
+      background: white;
+    }
+
+    .browser > h2, p {
+      margin: 4px;
+      font-size: 90%;
+    }
+  </style>
+</head>
+<body>
+
+  <article class="all-browsers">
+    <h1>Most Popular Browsers</h1>
+
+    <article class="browser">
+      <h2>Google Chrome</h2>
+      <p>Google Chrome is a web browser developed by Google, launched in 2008. Chrome is currently the most popular web browser in the world!</p>
+    </article>
+
+    <article class="browser">
+      <h2>Mozilla Firefox</h2>
+      <p>Mozilla Firefox is an open-source web browser developed by Mozilla. Firefox has been the second most popular web browser since January 2018.</p>
+    </article>
+
+    <article class="browser">
+      <h2>Microsoft Edge</h2>
+      <p>Microsoft Edge is a web browser developed by Microsoft, launched in 2015. Microsoft Edge replaced Internet Explorer.</p>
+    </article>
+  </article>
+
+</body>
+</html>
