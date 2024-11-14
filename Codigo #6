@@ -1,0 +1,17 @@
+<!--Practica #6-->
+
+
+<!--En esta practica veremos como el <footer>elemento define un pie de página para un documento o sección-->
+
+<!--Aqui inicia su ejecucion con el elemento  HTML <footer>-->
+<!DOCTYPE html>
+<html>
+<cuerpo>
+<!--Se crea el folder-->
+<pie de página>
+  <p>Autor: Hege Refsnes</p>
+  <p><a href="hege@example.com">hege@example.com</a></p>
+</pie de página>
+
+</cuerpo>
+</html>
