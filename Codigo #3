@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<cuerpo>
+
+<!--Practica #3-->
+
+<!--En esta practica veremos como esto esta hecho con tres artículos con contenido independiente y autónomo-->
+
+<!--Aqui inicia el primer contenido independiente-->
+<h1>El elemento del artículo</h1>
+
+<artículo>
+  <h2>Google Chrome</h2>
+  <p>Google Chrome es un navegador web desarrollado por Google, lanzado en 2008. ¡Chrome es el navegador web más popular del mundo en la actualidad!</p>
+</artículo>
+<!--Se crea otro archivo-->
+<artículo>
+  <h2>Mozilla Firefox</h2>
+  <p>Mozilla Firefox es un navegador web de código abierto desarrollado por Mozilla. Firefox ha sido el segundo navegador web más popular desde enero de 2018.</p>
+</artículo>
+
+<artículo>
+  <h2>Microsoft Edge</h2>
+  <p>Microsoft Edge es un navegador web desarrollado por Microsoft, lanzado en 2015. Microsoft Edge reemplazó a Internet Explorer.</p>
+</artículo>
+
+</cuerpo>
+</html>
