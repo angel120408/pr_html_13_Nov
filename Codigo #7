@@ -1,0 +1,21 @@
+<!--Practica #7-->
+
+
+<!--En esta practica veremos como El <nav>elemento define un conjunto de enlaces de navegación-->
+
+
+<!--Inicia la ejecucion usando <nav>-->
+
+<!DOCTYPE html>
+<html>
+<cuerpo>
+
+<nav>
+  <a href="/html/">HTML</a> |
+  <a href="/css/">CSS</a> |
+  <a href="/js/">JavaScript</a> |
+  <a href="/jquery/">jQuery</a>
+</nav>
+
+</cuerpo>
+</html>
