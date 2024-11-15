@@ -213,7 +213,139 @@
 ![image](https://github.com/user-attachments/assets/630d4a45-8f64-49a3-9647-2add34c35482)
 ![image](https://github.com/user-attachments/assets/a710bdd6-8bd3-48bc-9522-8811aa30c7e6)
 
+# Codigo #7
+- Hecho con la practica de classroom
+
+<!--Practica #7-->
 
 
+<!--En esta practica veremos como El <nav>elemento define un conjunto de enlaces de navegación-->
+
+
+<!--Inicia la ejecucion usando <nav>-->
+
+<!DOCTYPE html>
+<html>
+<cuerpo>
+
+<nav>
+  <a href="/html/">HTML</a> |
+  <a href="/css/">CSS</a> |
+  <a href="/js/">JavaScript</a> |
+  <a href="/jquery/">jQuery</a>
+</nav>
+
+</cuerpo>
+</html>
+
+![image](https://github.com/user-attachments/assets/8b1149e5-e7fd-4103-a7ca-1300c0f18d2c)
+![image](https://github.com/user-attachments/assets/99bfe74b-6ccf-41d1-ad62-b9088ee2af0c)
+
+# Codigo #8
+- Hecho con la practica de classroom
+
+<!--Practica #8-->
+
+
+<!--En esta practica veremos como El <aside>elemento define algún contenido además del contenido en el que se coloca (como una barra lateral).
+El <aside>contenido debe estar relacionado indirectamente con el contenido circundante.
+-->
+
+
+<!--Inicia la ejecucion usando <aside>-->
+<!DOCTYPE html>
+<html>
+<cuerpo>
+
+<p>Mi familia y yo visitamos el centro Epcot este verano. ¡El clima estuvo agradable y Epcot fue increíble! ¡Tuve un gran verano junto con mi familia!</p>
+
+<aparte>
+  <h4>Centro Epcot</h4>
+  <p>Epcot es un parque temático en Walt Disney World Resort que cuenta con emocionantes atracciones, pabellones internacionales, fuegos artificiales galardonados y eventos especiales de temporada.</p>
+</aside>
+
+</cuerpo>
+</html>
+
+
+![image](https://github.com/user-attachments/assets/d70e783d-781a-4ea2-9539-efb0751297dd)
+
+![image](https://github.com/user-attachments/assets/871b8ac5-8bac-468f-a31f-ffb206332dfc)
+
+
+# Codigo #9
+- Hecho con la practica de classroom
+
+<!--Practica #9-->
+
+
+<!--En esta practica veremos como se utiliza CSS para darle estilo al elemento <aside>:
+-->
+
+
+<!--Inicia la ejecucion usando <aside> con CSS-->
+<!DOCTYPE html>
+<html>
+<cabeza>
+<estilo>
+a un lado {
+  ancho: 30%;
+  relleno-izquierda: 15px;
+  margen izquierdo: 15px;
+  flotar: derecha;
+  estilo de fuente: cursiva;
+  color de fondo: gris claro;
+}
+</estilo>
+</cabeza>
+<cuerpo>
+
+<p>Mi familia y yo visitamos el centro Epcot este verano. ¡El clima estuvo agradable y Epcot fue increíble! ¡Tuve un gran verano junto con mi familia!</p>
+
+<aparte>
+<p>El centro Epcot es un parque temático en Walt Disney World Resort que cuenta con emocionantes atracciones, pabellones internacionales, fuegos artificiales galardonados y eventos especiales de temporada.</p>
+</aside>
+
+<p>Mi familia y yo visitamos el centro Epcot este verano. ¡El clima estuvo agradable y Epcot fue increíble! ¡Tuve un gran verano junto con mi familia!</p>
+<p>Mi familia y yo visitamos el centro Epcot este verano. ¡El clima estuvo agradable y Epcot fue increíble! ¡Tuve un gran verano junto con mi familia!</p>
+
+</cuerpo>
+</html>
+
+
+![image](https://github.com/user-attachments/assets/c866a36f-7d52-4785-9b4b-9c93f5d4b88d)
+![image](https://github.com/user-attachments/assets/d9bb95f5-14d8-4258-b16c-657e160eef65)
+![image](https://github.com/user-attachments/assets/d54ebc82-e04e-452d-a870-e5e10784042a)
+
+
+# Codigo #10
+- Hecho con la practica de classroom
+<!--Practica #10-->
+
+
+<!--En esta practica veremos como la <figure>etiqueta especifica contenido autónomo, como ilustraciones, diagramas, fotografías, listados de códigos, etc.:
+-->
+
+
+<!--Inicia la ejecucion usando el <img>elemento define la imagen/ilustración real-->
+<!DOCTYPE html>
+<html>
+<cuerpo>
+
+<h2>Lugares para visitar</h2>
+
+<p>La vista más famosa de Puglia son las casas cónicas únicas (Trulli) que se encuentran en el área alrededor de Alberobello, declarada Patrimonio de la Humanidad por la UNESCO.</p>
+
+<figura>
+  <img src="pic_trulli.jpg" alt="Trulli" style="ancho:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italia.</figcaption>
+</figura>
+
+</cuerpo>
+</html>
+
+
+![image](https://github.com/user-attachments/assets/b8610f33-1d0e-45f9-acb1-ed6c855a83a2)
+![image](https://github.com/user-attachments/assets/92e73cde-0806-4dac-80b3-791854fbdafe)
 
 
