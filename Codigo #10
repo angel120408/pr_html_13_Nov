@@ -1,0 +1,23 @@
+<!--Practica #10-->
+
+
+<!--En esta practica veremos como la <figure>etiqueta especifica contenido autónomo, como ilustraciones, diagramas, fotografías, listados de códigos, etc.:
+-->
+
+
+<!--Inicia la ejecucion usando el <img>elemento define la imagen/ilustración real-->
+<!DOCTYPE html>
+<html>
+<cuerpo>
+
+<h2>Lugares para visitar</h2>
+
+<p>La vista más famosa de Puglia son las casas cónicas únicas (Trulli) que se encuentran en el área alrededor de Alberobello, declarada Patrimonio de la Humanidad por la UNESCO.</p>
+
+<figura>
+  <img src="pic_trulli.jpg" alt="Trulli" style="ancho:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italia.</figcaption>
+</figura>
+
+</cuerpo>
+</html>
